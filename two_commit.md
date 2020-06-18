@@ -1,4 +1,3 @@
-two commit 
-hey I edit this file
 
 Chien chi them type thoi
+Anh tuan them lan 3

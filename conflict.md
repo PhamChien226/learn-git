@@ -1,5 +1,3 @@
-Day la Tuan
+Anh Tuan them lan 1
 
-them type ne
-
-them vai ca cai linh tinh ne
+Anh Tuan them lan 2
